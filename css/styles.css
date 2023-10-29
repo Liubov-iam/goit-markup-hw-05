@@ -912,6 +912,14 @@ cursor: pointer;
         fill: #FFFFFF;
         
  }
+
+
+ .close-btn:hover .close-btn-icon,
+ .close-btn:focus .close-btn-icon {
+         fill: #FFFFFF;
+ }
+
+ 
         
      .modal-title {
                 color: #2E2F42;
