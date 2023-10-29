@@ -1036,6 +1036,10 @@ cursor: pointer;
 .modal-field-comment {
         margin-bottom: 16px;
 }
+
+.modal-field-checkbox {
+        margin-bottom: 24px;
+}
      .check-text {
                 color: #8E8F99;
                 font-size: 12px;
@@ -1077,7 +1081,7 @@ cursor: pointer;
         margin-right: 8px;
         fill: transparent;
         line-height: 1.17;
-        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
      }
 
      .form-btn {
